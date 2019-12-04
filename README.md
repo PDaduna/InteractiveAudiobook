@@ -54,8 +54,8 @@ The technical challenges of this project will be to set up a server with a Raspb
 
 - Story testing 
 - Refine story to be more non-linear  
-- Create charakter dependent story events
-- Add recordet sounds to System
+- Create character dependent story events
+- Add recorded sounds to system
 
 #### March: 
 
